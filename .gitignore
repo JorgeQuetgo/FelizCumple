@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+lambda/node_modules
+.ask/
+ask-resources.json
